@@ -17,8 +17,6 @@ I like to build Software. I am curious about how Software works. Moreover, I fee
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShamsShovon08)  
 
-![GitHub metrics](https://metrics.lecoq.io/ShamsShovon08)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShamsShovon08)  
 
 ![Profile views](https://gpvc.arturio.dev/ShamsShovon08)  
