@@ -1,16 +1,24 @@
-### Hi I am Shams👋
+![I am a DevOps and Open Source Enthusiast](https://pbs.twimg.com/profile_banners/1355405438578094081/1645549218/1080x360)
+## Hi there 👋, I am Shams 
+### I am a DevOps and Open Source Enthusiast
 
-<!--
-**ShamsShovon08/ShamsShovon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I like to build Software. I am curious about how Software works. Moreover, I feel extremely passionate about DevOps, Full-Stack development, and Open Source. Currently working and researching on these fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DevOps 
+- 🌱 I’m currently learning Backend development 
+- 👯 I’m looking to collaborate on Open Source 
+- 😄 Pronouns: he/him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShamsShovon08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shamsshovon08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shams.shovon08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shams_shovon08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/shams-shahariar)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsShovon08&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShamsShovon08)  
+
+![GitHub metrics](https://metrics.lecoq.io/ShamsShovon08)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShamsShovon08)  
+
+![Profile views](https://gpvc.arturio.dev/ShamsShovon08)  
