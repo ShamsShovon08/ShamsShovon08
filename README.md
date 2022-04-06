@@ -1,4 +1,3 @@
-![I am a DevOps and Open Source Enthusiast](https://pbs.twimg.com/profile_banners/1355405438578094081/1645549218/1080x360)
 ## Hi there 👋, I am Shams 
 ### I am a DevOps and Open Source Enthusiast
 
